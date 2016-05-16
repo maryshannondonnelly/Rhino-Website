@@ -1,0 +1,49 @@
+body {
+	background-color: #99ff99;
+	font-family: Footlight MT Light;
+	color: #006600; 
+}
+#navigation {
+	padding: 0;
+	margin: 0;
+}
+#navigation li {
+	display: inline;
+	float: left;
+}
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 300px;
+	border: 1px solid #000000;
+	font size: 0.8em
+	text-align: center
+	text-decoration: none;
+	color: #000000;
+}
+
+#pic1 img {
+	box-shadow: 8px 8px 10px #006600;
+	float: left;
+	margin: 0 0 1em 1em
+}
+
+#pic2 img {
+	border: 10px double #006600;
+	float: right;
+	margin: 0 0 1em 1em
+}
+
+#pic3 img {
+	float: left;
+	margin: 0 0 1em 1em
+}
+
+#pic4 img {
+	float: right;
+	margin: 0 0 1em 1em
+}
+
+#pic5 img {
+	float: left;
+	margin: 0 0 1em 1em
+}
